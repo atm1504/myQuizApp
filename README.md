@@ -1,2 +1,2 @@
 # MyQuizApp
-This ia an quiz app
+This ia an quiz app.
